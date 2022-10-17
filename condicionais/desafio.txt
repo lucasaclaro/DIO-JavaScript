@@ -1,0 +1,10 @@
+Faça um programa para calcular o valor de uma viagem.
+
+
+- preço da gasolina;
+- preço do etanol;
+- preço do combustível;
+- valor médio de gasto do carro;
+- distância em KM da viagem;
+
+Qual o valor do combustível gasto para realizar essa viagem?
